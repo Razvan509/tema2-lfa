@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1526034214 source:d:\razvan\programare\lfa\tema2\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<fstream>
+	<algorithm>
+
+1526463263 source:d:\download\tema2-20180512t111536z-001\tema2\main.cpp
+	<iostream>
+	<vector>
+	<string.h>
+	<fstream>
+	<algorithm>
+
